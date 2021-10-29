@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.background-top-section{
+    background-image: url(https://cdn.pixabay.com/photo/2017/10/21/11/13/puja-2874391_960_720.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.top-section-heading{
+    color: white;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-transform: capitalize;
+    padding: 100px;
+    font-style: italic;
+    text-align: center;
+}
+.bottam-background{
+    background-color: #e6f6ff;
+    padding: 30px;
+    text-align: center;
+}
+.bottam-inner-card{
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+.card-image{
+    width: 164px;
+    height: 164px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.card-headding{
+    text-transform: capitalize;
+
+}
+.card-price{
+    color : #323f4b;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0px;
+}
